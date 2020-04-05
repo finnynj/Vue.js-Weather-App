@@ -1,5 +1,8 @@
 # vue-weather
 
+![Thumbnail](thumbnail.png)
+
+
 ## Project setup
 ```
 npm install
